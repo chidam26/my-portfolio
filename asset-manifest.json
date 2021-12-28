@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.23c147ef.css",
+    "main.js": "/my-portfolio/static/js/main.58540911.js",
+    "static/media/Chidambaram.png": "/my-portfolio/static/media/Chidambaram.807c5a0439a69b41f32a.png",
+    "static/media/moon2.png": "/my-portfolio/static/media/moon2.b83c8c706e05a6843907.png",
+    "static/media/system.jpg": "/my-portfolio/static/media/system.50d10ca3e558f394e12c.jpg",
+    "static/media/sun.png": "/my-portfolio/static/media/sun.ef507e2d648efd39a0b7.png",
+    "static/media/webarchive.JPG": "/my-portfolio/static/media/webarchive.5239502426ea41dc07b3.JPG",
+    "static/media/success.JPG": "/my-portfolio/static/media/success.ca1cbd7aa907cb766842.JPG",
+    "static/media/perspective.JPG": "/my-portfolio/static/media/perspective.254377e26c2f56001e99.JPG",
+    "static/media/values.JPG": "/my-portfolio/static/media/values.83a621380d11736d8e90.JPG",
+    "static/media/gtd.JPG": "/my-portfolio/static/media/gtd.9570de3e5d56dcc6a9f3.JPG",
+    "static/media/dhoni.JPG": "/my-portfolio/static/media/dhoni.4f1993e562defbcf9fa5.JPG",
+    "static/media/superover.JPG": "/my-portfolio/static/media/superover.30ca0cceed7e43a6c8d7.JPG",
+    "static/media/address.png": "/my-portfolio/static/media/address.be94454235747da3e4ec.png",
+    "static/media/expense.JPG": "/my-portfolio/static/media/expense.938e13c01d7fed03c934.JPG",
+    "static/media/form.JPG": "/my-portfolio/static/media/form.59b40eb735186b043dc6.JPG",
+    "static/media/vaccination.JPG": "/my-portfolio/static/media/vaccination.29c95b456b11f9e6c23b.JPG",
+    "static/media/dice.JPG": "/my-portfolio/static/media/dice.0b031b56dd543a6bda04.JPG",
+    "static/media/email.png": "/my-portfolio/static/media/email.e9e0c1507265f69e6468.png",
+    "static/media/phone.png": "/my-portfolio/static/media/phone.210d3b3fea63edfbd0cc.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.23c147ef.css.map": "/my-portfolio/static/css/main.23c147ef.css.map",
+    "main.58540911.js.map": "/my-portfolio/static/js/main.58540911.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23c147ef.css",
+    "static/js/main.58540911.js"
+  ]
+}
